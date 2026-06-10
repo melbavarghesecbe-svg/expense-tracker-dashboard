@@ -24,6 +24,21 @@ This project was developed as part of the Software Development Internship at Cod
 June 2, 2026 – June 30, 2026
 
 ---
+## Application Preview
+
+### Dashboard - Light Mode
+
+![Light Mode](screenshots/light-mode.png)
+
+### Dashboard - Dark Mode
+
+![Dark Mode](screenshots/dark-mode.png)
+
+### PDF Export Feature
+
+![PDF Export](screenshots/pdf-export.png)
+
+
 
 ## Features
 
